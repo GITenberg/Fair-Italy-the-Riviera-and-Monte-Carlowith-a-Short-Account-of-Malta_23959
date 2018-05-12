@@ -1,0 +1,27 @@
+_repo: Fair-Italy-the-Riviera-and-Monte-Carlowith-a-Short-Account-of-Malta_23959
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Devereux, W. Cope
+    gutenberg_agent_id: '26147'
+    url: http://www.gutenberg.org/2009/agents/26147
+description: ''
+gutenberg_bookshelf: Italy
+gutenberg_issued: '2007-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Riviera (Italy) -- Description and travel'
+- !lcsh 'Italy -- Description and travel'
+title: "Fair Italy, the Riviera and Monte Carlo\r\nComprising a Tour Through North\
+  \ and South Italy and Sicily with a Short Account of Malta"
+url: http://www.gutenberg.org/ebooks/23959
