@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26147'
     url: http://www.gutenberg.org/2009/agents/26147
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23959#Fair-Italy-the-Riviera-and-Monte-Carlowith-a-Short-Account-of-Malta
 gutenberg_bookshelf: Italy
 gutenberg_issued: '2007-12-21'
 gutenberg_type: Text
